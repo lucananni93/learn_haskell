@@ -10,3 +10,4 @@ In the [corresponding folder](./learn_you_a_haskell_for_great_good) I go through
 1. [Starting Out](./learn_you_a_haskell_for_great_good/01_Starting_Out.ipynb)
 2. [Types and Typeclasses](./learn_you_a_haskell_for_great_good/02_Types_and_Typeclasses.ipynb)
 3. [Syntax in Functions](./learn_you_a_haskell_for_great_good/03_Syntax_in_Functions.ipynb)
+4. [Recursion](./learn_you_a_haskell_for_great_good/04_Recursion.ipynb)
